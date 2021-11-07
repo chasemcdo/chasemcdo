@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-- Third-year Engineering Science student majoring in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/program/what-is-engsci/) and minoring in Business
+- Third-year Engineering Science student majoring in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/) and minoring in Business
 
 - I am passionate about software development and eager to gain broader exposure to its applications
 
