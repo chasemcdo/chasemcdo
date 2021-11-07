@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-- I am a Third-year Engineering Science student majoring in Machine Intelligence at the University of Toronto
+- Third-year Engineering Science student majoring in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/program/what-is-engsci/) and minoring in Business
 
 - I am passionate about software development and eager to gain broader exposure to its applications
 
 - Currently seeking a 4/12/16 month internship starting in the summer of 2022
 
-### Contact
+### Connect with me
 [LinkedIn](https://www.linkedin.com/in/chasem/)
 
 # Courses
