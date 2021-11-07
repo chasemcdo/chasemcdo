@@ -13,17 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me
+
 - I am a Third-year Engineering Science student majoring in Machine Intelligence at the University of Toronto
+
 - I am passionate about software development and eager to gain broader exposure to its applications
+
+- Currently seeking a 4/12/16 month internship starting in the summer of 2022
+
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/chasem/)
+
 # Courses
 ### Current
+
 - [ECE421](https://github.com/chasemcdo/ECE421) Introduction to Machine Learning
+
 - ECE367 Matrix Algebra & Optimization
+
 - ECE358 Foundations of Computing
+
 ### To Be Completed by May 2022
+
 - ECE324 Machine Intelligence, Software and Neural Networks
+
 - ECE353 Systems Software
+
 - ROB311 Artificial Intelligence
+
 - ECE368 Probabilistic Reasoning
