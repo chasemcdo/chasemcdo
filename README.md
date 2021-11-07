@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - Currently seeking a 4/12/16 month internship starting in the summer of 2022
 
+- ⚡ Fun Fact: I have competed in powerlifting at up to a provincial level
+
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/chasem/)
 
