@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - Third-year Engineering Science student majoring in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/) and minoring in Business
 
 - I am passionate about software development and eager to gain broader exposure to its applications
-
-- Currently seeking a 4/12/16 month internship starting in the summer of 2022
+<!-- - Currently seeking a 4/12/16 month internship starting in the summer of 2022 -->
 
 - Check out my [personal site](https://chasemcdo.github.io/)
 
