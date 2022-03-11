@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/chasem/)
 
 # Courses
-### Current
+### Completed
 
 - [ECE421](https://github.com/chasemcdo/ECE421) Introduction to Machine Learning
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - ECE358 Foundations of Computing
 
-### To Be Completed by May 2022
+### Current
 
 - ECE324 Machine Intelligence, Software and Neural Networks
 
