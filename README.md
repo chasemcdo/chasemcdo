@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 - ECE358 Foundations of Computing
 
-### Current
-
 - ECE324 Machine Intelligence, Software and Neural Networks
 
 - ECE353 Systems Software
