@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/chasem/)
 
+![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasemcdo&count_private=true&show_icons=true&theme=dark)
+
 # Courses
 ### Completed
 
