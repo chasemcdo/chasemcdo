@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-- Engineering Science Alum with a major in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/) and minoring in Business
+- Engineering Science Alum with a major in Machine Intelligence at the [University of Toronto](https://engsci.utoronto.ca/) and minor in Business
 
 - I am passionate about software development and eager to gain broader exposure to its applications
 
